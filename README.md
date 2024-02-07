@@ -49,7 +49,7 @@ Este es un proyecto de una aplicación de clima que te permite buscar y mostrar 
 
 ## Contacto
 
-Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto con el equipo de desarrollo en [programador5781](mailto:programador5781@gmail.com).
+Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto con el equipo de desarrollo en [engineer5784](mailto:ricorpcol@gmail.com).
 
 
 
